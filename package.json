@@ -1,0 +1,26 @@
+{
+  "name": "traccer",
+  "version": "1.0.0",
+  "description": "traccer is an Agile based project management system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustysid/Project-Management-System.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "angular",
+    "mongodb",
+    "agile"
+  ],
+  "author": "Siddhant and Shaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rustysid/Project-Management-System/issues"
+  },
+  "homepage": "https://github.com/rustysid/Project-Management-System#readme"
+}
